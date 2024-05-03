@@ -1,0 +1,14 @@
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/STOPwithUDP
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/STOPwithUDP.deps.json
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/STOPwithUDP.runtimeconfig.json
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/STOPwithUDP.dll
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/STOPwithUDP.pdb
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/STOPwithUDP.GeneratedMSBuildEditorConfig.editorconfig
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/STOPwithUDP.AssemblyInfoInputs.cache
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/STOPwithUDP.AssemblyInfo.cs
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/STOPwithUDP.csproj.CoreCompileInputs.cache
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/STOPwithUDP.dll
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/refint/STOPwithUDP.dll
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/STOPwithUDP.pdb
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/STOPwithUDP.genruntimeconfig.cache
+/home/atila/Documentos/GitHub/STOPwithUDP/obj/Release/net8.0/ref/STOPwithUDP.dll

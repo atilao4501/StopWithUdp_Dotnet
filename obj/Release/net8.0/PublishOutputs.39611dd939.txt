@@ -1,0 +1,5 @@
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/publish/STOPwithUDP
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/publish/STOPwithUDP.dll
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/publish/STOPwithUDP.deps.json
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/publish/STOPwithUDP.runtimeconfig.json
+/home/atila/Documentos/GitHub/STOPwithUDP/bin/Release/net8.0/publish/STOPwithUDP.pdb
